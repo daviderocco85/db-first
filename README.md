@@ -10,6 +10,6 @@ Realizzare tramite **drawSQL** una struttura di tabella **MySQL** per la gestion
 
 [Visualizza il modello del database su drawSQL](https://drawsql.app/draw?t=48dc720f-cc71-4976-ae17-9a0c88323325&view=1)
 
-## Screenhoot drawSQL
+## Screenshot drawSQL
 
 ![Struttura del database](screenshot/struttura_database.png)
